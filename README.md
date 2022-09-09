@@ -9,3 +9,5 @@
   - Ampere (Intepreter for space language)
 
 - Sherry (Github, GitLab, Gitea, Onedev, Bitbucket in one app (no browser))
+
+- Parrot (Dependency for multiple languages, os (or even architecture))
