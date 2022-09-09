@@ -4,4 +4,8 @@
   - Yuzu (**Y**uzu is **u**ltra fast like **z**et (i know this is jet), **u**ltra effective docker-based server manager)
 
 - [space-lang](https://github.com/misilelab/space-lang)
-  - Acceleration (**A** spa**cce** language standard **l**ibrari**e**s fo**r** other l**a**nguages, utility func**tion**)
+  - Acceleration (A space language standard libraries)
+  - Velocity (Compiler for space language)
+  - Ampere (Intepreter for space language)
+
+- Sherry (Github, GitLab, Gitea, Onedev, Bitbucket in one app (no browser))
