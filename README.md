@@ -1,5 +1,5 @@
 - Momoi (fast minecraft launcher)
-  - Midori (minecraft library downloader)
+  - Midori (some minecraft download utility)
   - Aris (minecraft modpack manager)
   - [Yuzu](https://github.com/misilelab/yuzu)
 
@@ -9,7 +9,6 @@
   - Ampere (Intepreter for space language)
 
 - OneGit (Github, GitLab, Gitea, Onedev, Bitbucket in one app (no browser))
-- Sherry (Shell emulator rapidly)
 
 - Parrot (Dependency for multiple languages, os (or even architecture))
   - Pearl (Package Universal Manager)
