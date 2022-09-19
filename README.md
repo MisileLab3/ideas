@@ -1,6 +1,6 @@
 - Momoi (fast minecraft launcher)
-  - Midori (some minecraft download utility)
-  - Aris (minecraft modpack manager)
+  - [Midori](https://github.com/misilelab/midori)
+  - Aris (minecraft modpack manager using ferium)
   - [Yuzu](https://github.com/misilelab/yuzu)
 
 - [space-lang](https://github.com/misilelab/space-lang)
