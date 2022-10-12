@@ -1,3 +1,5 @@
+desc: minecraft modpack manager using ferium
+
 /using python/
 
 get name of curseforge mod -> search via API -> sort by category -|
