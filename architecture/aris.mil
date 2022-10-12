@@ -1,0 +1,9 @@
+/using python/
+
+get name of curseforge mod -> search via API -> sort by category -|
+                                             |                    |
+                                             -> sort by alphabet -|
+                                             |                    |
+                                             -> sort by downloads -> download via midori -> if server -> start via yuzu ----
+                                                                                                      |                    |
+                                                                                                      -/> start via midori -> output log to file or output
