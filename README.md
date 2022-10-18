@@ -11,4 +11,4 @@
 - Parrot (Dependency for multiple languages, os (or even architecture))
   - Pearl (Package Universal Manager)
 
-- Twipper (Twitch + Youtuber with **no fee** and **open source**)
+- [Twipper](https://github.com/misilelab/twipper)
