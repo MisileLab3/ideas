@@ -1,3 +1,2 @@
 - RecTimer (Recipe with Timer, have import, export)
 - ZenlyPlus or OpenZenly or DetPos (Zenly but open source)
-- LangSync (Language translation with minecraft sign, entity name, chat and something more)
