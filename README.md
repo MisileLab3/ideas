@@ -4,6 +4,6 @@
 
 # Other stuffs
 
-- Adella (Chess AI)
+- Adela (Chess AI)
 
 
