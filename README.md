@@ -1,4 +1,9 @@
 # Minecraft Stuffs
 
-- Minecraft Ender Pearl Transporter
-  - EPT-0001-A
+- Minecraft rocket
+
+# Other stuffs
+
+- Adella (Chess AI)
+
+
